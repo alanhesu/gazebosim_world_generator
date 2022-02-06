@@ -1,4 +1,4 @@
-custom_env: 
+custom_env:
   barrel_pos_noise: 0.5
   barrel_stacking_noise: 0.1
   box:
@@ -16,8 +16,8 @@ custom_env:
     '255': 3
   input_map: src/gazebosim_world_generator/maps/custom_env.tiff
   map_centre:
-    x: 32
-    y: 32
+    x: 15
+    y: 20
   map_evolution:
     number_of_barrels_to_remove: 3
     number_of_blocks_to_remove: 2
@@ -48,33 +48,33 @@ custom_env:
       value: 200 200 200
       z_offset: 0.0
       rotation: 0
-      dae_location: "/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae"
-      pose_noise: 0.00      
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae"
+      pose_noise: 0.00
     chair:
       name: chair
       value: 50 200 200
       z_offset: 0.0
       rotation: 0
-      dae_location: "/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae"
-      pose_noise: 0.00 
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae"
+      pose_noise: 0.00
     chair_90:
       name: chair
       value: 100 200 200
       z_offset: 0.0
       rotation: 1.57
-      dae_location: "/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae"
-      pose_noise: 0.00      
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae"
+      pose_noise: 0.00
     desk:
       name: desk
       value: 200 50 200
       z_offset: 0.0
       rotation: 0
-      dae_location: "/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae"
-      pose_noise: 0.00      
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae"
+      pose_noise: 0.00
     table:
       name: table
       value: 200 200 50
       z_offset: 0.0
       rotation: 0
-      dae_location: "/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/table.dae"
-      pose_noise: 0.00      
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/table.dae"
+      pose_noise: 0.00
