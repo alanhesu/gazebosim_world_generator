@@ -1,4 +1,4 @@
-challenge1: 
+challenge1:
   barrel_pos_noise: 0.5
   barrel_stacking_noise: 0.1
   box:
@@ -48,5 +48,5 @@ challenge1:
       name: barrel
       value: 125 125 125
       z_offset: 0.5
-      dae_location: "/home/tom/ROS/custom_gazebo_sensor/catkin_ws/src/gazebo_radiation_plugin/custom_models/barrel/models/barrel.dae"
-      pose_noise: 0.05  
+      dae_location: "/home/alanhesu/catkin_ws/src/gazebo_radiation_plugin/custom_models/barrel/models/barrel.dae"
+      pose_noise: 0.05

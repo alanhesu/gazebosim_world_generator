@@ -43,7 +43,7 @@
       <iterations>0</iterations>
     </state>
     <model name='wall_0'>
-      <pose frame='sim_world'>-12.5 -9.25 1.5 0 0 0</pose>
+      <pose frame='sim_world'>-4.0 -3.25 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_0_link'>
         <inertial>
@@ -93,7 +93,7 @@
       </link>
     </model>
     <model name='wall_1'>
-      <pose frame='sim_world'>-12.5 -4.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>-4.0 2.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_1_link'>
         <inertial>
@@ -143,7 +143,7 @@
       </link>
     </model>
     <model name='wall_2'>
-      <pose frame='sim_world'>-7.5 -6.5 1.5 0 0 0</pose>
+      <pose frame='sim_world'>1.0 -0.5 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_2_link'>
         <inertial>
@@ -193,7 +193,7 @@
       </link>
     </model>
     <model name='wall_3'>
-      <pose frame='sim_world'>-7.5 -2.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>1.0 4.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_3_link'>
         <inertial>
@@ -243,7 +243,7 @@
       </link>
     </model>
     <model name='wall_4'>
-      <pose frame='sim_world'>-4.5 -7.75 1.5 0 0 0</pose>
+      <pose frame='sim_world'>4.0 -1.75 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_4_link'>
         <inertial>
@@ -293,7 +293,7 @@
       </link>
     </model>
     <model name='wall_5'>
-      <pose frame='sim_world'>-4.5 -2.5 1.5 0 0 0</pose>
+      <pose frame='sim_world'>4.0 3.5 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_5_link'>
         <inertial>
@@ -343,7 +343,7 @@
       </link>
     </model>
     <model name='wall_6'>
-      <pose frame='sim_world'>-8.5 -10.5 1.5 0 0 0</pose>
+      <pose frame='sim_world'>0.0 -4.5 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_6_link'>
         <inertial>
@@ -393,7 +393,7 @@
       </link>
     </model>
     <model name='wall_7'>
-      <pose frame='sim_world'>-11.25 -8.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>-2.75 -2.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_7_link'>
         <inertial>
@@ -443,7 +443,7 @@
       </link>
     </model>
     <model name='wall_8'>
-      <pose frame='sim_world'>-8.0 -8.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>0.5 -2.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_8_link'>
         <inertial>
@@ -493,7 +493,7 @@
       </link>
     </model>
     <model name='wall_9'>
-      <pose frame='sim_world'>-6.0 -5.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>2.5 1.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_9_link'>
         <inertial>
@@ -543,7 +543,7 @@
       </link>
     </model>
     <model name='wall_10'>
-      <pose frame='sim_world'>-8.5 0.0 1.5 0 0 0</pose>
+      <pose frame='sim_world'>0.0 6.0 1.5 0 0 0</pose>
       <static>True</static>
       <link name='wall_10_link'>
         <inertial>
@@ -593,7 +593,7 @@
       </link>
     </model>
     <model name='cylinder_0'>
-      <pose frame='sim_world'>-12.0487799252 -10.0019886098 0.15 0 -0 0</pose>
+      <pose frame='sim_world'>-3.50833263406 -3.99468852365 0.15 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_0_link'>
         <inertial>
@@ -646,7 +646,7 @@
       </link>
     </model>
     <model name='cylinder_1'>
-      <pose frame='sim_world'>-12.0420426978 -10.0103075531 0.45 0 -0 0</pose>
+      <pose frame='sim_world'>-3.52385943008 -4.0087088618 0.45 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_1_link'>
         <inertial>
@@ -699,7 +699,7 @@
       </link>
     </model>
     <model name='cylinder_2'>
-      <pose frame='sim_world'>-12.0348813638 -10.0022584418 0.75 0 -0 0</pose>
+      <pose frame='sim_world'>-3.50886110275 -3.99944208134 0.75 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_2_link'>
         <inertial>
@@ -752,7 +752,7 @@
       </link>
     </model>
     <model name='cylinder_3'>
-      <pose frame='sim_world'>-11.9668021673 -9.48896589659 0.15 0 -0 0</pose>
+      <pose frame='sim_world'>-3.51209215404 -3.44213555514 0.15 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_3_link'>
         <inertial>
@@ -805,7 +805,7 @@
       </link>
     </model>
     <model name='cylinder_4'>
-      <pose frame='sim_world'>-11.9667948561 -9.48914419962 0.45 0 -0 0</pose>
+      <pose frame='sim_world'>-3.51915268039 -3.44896797493 0.45 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_4_link'>
         <inertial>
@@ -858,7 +858,7 @@
       </link>
     </model>
     <model name='cylinder_5'>
-      <pose frame='sim_world'>-11.9563378735 -8.98162154012 0.15 0 -0 0</pose>
+      <pose frame='sim_world'>-3.54127992105 -3.0196164232 0.15 0 -0 0</pose>
       <static>True</static>
       <link name='cylinder_5_link'>
         <inertial>
@@ -911,176 +911,179 @@
       </link>
     </model>
   <model name="chair_0">
-    <pose>-11.5 -6.0 0.0 0 -0 0</pose>
+    <pose>-3.0 0.0 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_chair_0">
       <collision name="collision_chair_0">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_chair_0">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="chair_1">
-    <pose>-11.5 -4.5 0.0 0 -0 0</pose>
+    <pose>-3.0 1.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_chair_1">
       <collision name="collision_chair_1">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_chair_1">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="chair_2">
-    <pose>-11.5 -3.0 0.0 0 -0 0</pose>
+    <pose>-3.0 3.0 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_chair_2">
       <collision name="collision_chair_2">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_chair_2">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/chair.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="bookshelf_3">
-    <pose>-11.0 -0.5 0.0 0 -0 0</pose>
+    <pose>-2.5 5.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_bookshelf_3">
       <collision name="collision_bookshelf_3">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/bookshelf.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_bookshelf_3">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/bookshelf.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="desk_4">
-    <pose>-10.5 -6.0 0.0 0 -0 0</pose>
+    <pose>-2.0 0.0 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_desk_4">
       <collision name="collision_desk_4">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_desk_4">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="desk_5">
-    <pose>-10.5 -4.5 0.0 0 -0 0</pose>
+    <pose>-2.0 1.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_desk_5">
       <collision name="collision_desk_5">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_desk_5">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="desk_6">
-    <pose>-10.5 -3.0 0.0 0 -0 0</pose>
+    <pose>-2.0 3.0 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_desk_6">
       <collision name="collision_desk_6">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_desk_6">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/desk.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="bookshelf_7">
-    <pose>-9.5 -0.5 0.0 0 -0 0</pose>
+    <pose>-1.0 5.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_bookshelf_7">
       <collision name="collision_bookshelf_7">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/bookshelf.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_bookshelf_7">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/bookshelf.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/eshes/bookshelf.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="table_8">
-    <pose>-6.0 -7.5 0.0 0 -0 0</pose>
+    <pose>2.5 -1.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_table_8">
       <collision name="collision_table_8">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_table_8">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
   <model name="table_9">
-    <pose>-6.0 -2.5 0.0 0 -0 0</pose>
+    <pose>2.5 3.5 0.0 0 -0 0.0</pose>
     <static>true</static>
     <link name="link_table_9">
       <collision name="collision_table_9">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
         </geometry>
       </collision>
       <visual name="visual_table_9">
         <geometry>
-          <mesh><uri>/home/tom/ROS/Oxford/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
+          <mesh><uri>/home/alanhesu/catkin_ws/src/gazebosim_world_generator/meshes/table.dae</uri></mesh>
         </geometry>
       </visual>
     </link>
   </model>
 
 
+      <include>
+       <uri>model://ground_plane</uri>
+      </include> 
       <model name='ground_plane'>
         <pose frame=''>0 0 0 0 -0 0</pose>
         <link name='ground_plane'>
